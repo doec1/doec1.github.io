@@ -1665,7 +1665,7 @@
 
 		#banner header {
 			background-color: #252122;
-			background-color: rgba(34, 30, 31, 0.5);
+			background-color: rgba(34, 30, 31, 0.65);
 			opacity: 35%;
 		}
 
@@ -1915,7 +1915,7 @@
 					font-size: 3em;
 					letter-spacing: -0.01em;
 					margin: 0 0 -.3em 0;
-					font-family:'Brush Script MT', sans-serif;
+					font-family:'Brush Script MT', italic;
 				}
 
 				p {
