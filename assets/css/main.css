@@ -1132,7 +1132,7 @@
 	}
 
 	a {
-		color: #ED1C24;
+		color: #cc0001;
 		text-decoration: underline;
 	}
 
@@ -1305,7 +1305,7 @@
 		cursor: pointer;
 		border: 0;
 		border-radius: 5px;
-		background: #ED1C24;
+		background: #cc0001;
 		color: #fff !important;
 		font-weight: 700;
 		outline: 0;
@@ -1447,7 +1447,7 @@
 		position: absolute;
 		left: 0;
 		top: 1.3em;
-		background-color: #ED1C24;
+		background-color: #cc0001;
 		height: 3.5em;
 		text-align: center;
 		color: #fff;
@@ -1462,7 +1462,7 @@
 			position: absolute;
 			bottom: 0;
 			right: -1.2em;
-			border-left: solid 1.25em #ED1C24;
+			border-left: solid 1.25em #cc0001;
 			border-top: solid 1.8em transparent;
 			border-bottom: solid 1.8em transparent;
 		}
@@ -1612,7 +1612,7 @@
 		.icon.featured {
 			position: relative;
 			display: inline-block;
-			background-color: #ED1C24;
+			background-color: #cc0001;
 			width: 9em;
 			padding: 1.75em 0 0.75em 0;
 			border-top-left-radius: 5px;
@@ -1632,7 +1632,7 @@
 				position: absolute;
 				bottom: -1.95em;
 				left: 0;
-				border-top: solid 2em #ED1C24;
+				border-top: solid 2em #cc0001;
 				border-left: solid 4.5em transparent;
 				border-right: solid 4.5em transparent;
 			}
@@ -1675,7 +1675,7 @@
 			}
 
 			#banner header p {
-				color: #ED1C24;
+				color: #cc0001;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
@@ -1910,7 +1910,7 @@
 			}
 
 				#header h1 {
-					color: #ED1C24;
+					color: #cc0001;
 					font-weight: 900;
 					font-size: 3em;
 					letter-spacing: -0.01em;
@@ -1954,7 +1954,7 @@
 					}
 
 					#nav > ul > li.current > a {
-						background: #ED1C24;
+						background: #cc0001;
 						color: #fff !important;
 						font-weight: 700;
 					}
@@ -2507,7 +2507,7 @@
 			}
 
 				#header h1 {
-					color: #ED1C24;
+					color: #cc0001;
 					font-weight: 900;
 					font-size: 2em;
 					letter-spacing: -0.01em;
